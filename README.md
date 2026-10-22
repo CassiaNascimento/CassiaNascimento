@@ -9,6 +9,7 @@ Durante minha trajetória em pesquisa, atuei em análise de dados aplicando téc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Machine Learning & Ciência de Dados**
+
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
 ![Optuna](https://img.shields.io/badge/Optuna-4B8BBE?style=for-the-badge)
@@ -17,15 +18,20 @@ Durante minha trajetória em pesquisa, atuei em análise de dados aplicando téc
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 **Visualização, Deploy & Ambiente**
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- **Machine Learning & Estatística:** Classificação e Regressão, XGBoost, Árvores de Decisão, Regressão Logística e Linear, Otimização de Hiperparâmetros (Optuna), Redução de Dimensionalidade (PCA, FA), Processos Gaussianos (GPR) e Inferência Bayesiana (MCMC).
+- **Machine Learning & Estatística:**
 
-- **SQL (MySQL):** CTEs, Window Functions, JOINs avançados e otimização de consultas.
+- Classificação e Regressão, XGBoost, Árvores de Decisão, Regressão Logística e Linear, Otimização de Hiperparâmetros (Optuna), Redução de Dimensionalidade (PCA, FA), Processos Gaussianos (GPR) e Inferência Bayesiana (MCMC).
+
+- **SQL (MySQL):**
+
+- CTEs, Window Functions, JOINs avançados e otimização de consultas.
 
 ### Projetos de Ciência de dados:
 #### [Predição de Churn de Clientes (Pipeline End-to-End)](https://github.com/CassiaNascimento/Customer_Churn_Prediction)
