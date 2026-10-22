@@ -45,3 +45,5 @@ Pipeline modular completo de Machine Learning em Python para previsão de risco 
 ---
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiasnascimento/)
+[![Currículo PDF](https://img.shields.io/badge/Currículo_em_PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Resume_Cassia_Nascimento.pdf)
+
