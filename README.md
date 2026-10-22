@@ -1,4 +1,5 @@
 **Cientista de Dados | Doutora em Física (UFRJ)**
+
 Doutora em Física pela UFRJ com mais de 8 anos de experiência prática em **Python**, análise estatística, modelagem matemática e visualização de dados. 
 Durante minha trajetória em pesquisa, atuei em análise de dados aplicando técnicas como **Markov Chain Monte Carlo (MCMC)**, **Regressão via Processos Gaussianos (GPR)** e **Machine Learning não supervisionado** (para redução de dimensionalidade: **PCA** e **Factor Analysis**). Atualmente, direciono essa bagagem analítica para resolver problemas de negócios através de soluções *end-to-end* em **Ciência de Dados** e **Machine Learning supervisionado**, indo desde a Análise Exploratória (EDA) e *Feature Engineering* até a otimização de modelos e publicação de aplicações web interativas.
 
