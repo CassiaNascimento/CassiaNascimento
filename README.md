@@ -33,17 +33,7 @@ Classificação e Regressão, XGBoost, Árvores de Decisão, Regressão Logísti
 
 CTEs, Window Functions, JOINs avançados e otimização de consultas.
 
-### Projetos de Ciência de dados:
-#### [Predição de Churn de Clientes (Pipeline End-to-End)](https://github.com/CassiaNascimento/Customer_Churn_Prediction)
-Pipeline modular completo de Machine Learning em Python para previsão de risco de cancelamento de clientes em base desbalanceada:
-- **Modelagem & Otimização:** Feature Engineering, comparação entre 6 algoritmos de classificação e otimização de hiperparâmetros via **Optuna** (métrica PR-AUC), alcançando **ROC AUC de 0.85** e **Recall de 0.79** com **XGBoost**.
-- **Deploy Interativo:** Aplicação web construída em **Streamlit** integrando Análise Exploratória (EDA) e inferência em tempo real.
-- 🔗 **[Acessar Aplicação Web (Streamlit Community Cloud)](https://cassia-customer-churn-prediction.streamlit.app/)** 
-
-#### Forecast de Energia *(Em construção)*
-- Modelagem preditiva aplicada a séries temporais no setor de energia.
 ---
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiasnascimento/)
-[![Currículo PDF](https://img.shields.io/badge/Currículo_em_PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Resume_Cassia_Nascimento.pdf)
 
